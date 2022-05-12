@@ -8,6 +8,7 @@ To replace the numerical missing values we used and compared 3 approches:
   -Linear Interpolation
   -Dropping
   -Mean values
-To replace the categorical missing values we used the method of the most frequent value.  
+To replace the categorical missing values we used the method of the most frequent value. 
+I had uploaded also the final report of the full project.
   
   
